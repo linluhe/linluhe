@@ -4,7 +4,7 @@
   <video src="https://github.com/linluhe/linluhe/assets/163412740/01b95356-50e9-4cee-b9b0-8901d0e3c541"></video>
   <div>
     <a href="https://github.com/new-soul-house"><img src="https://img.shields.io/badge/NewSoul-新心靈舍-blue" /></a>&emsp;
-    <a href="https://linluhe.github.io/qrcode"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://linluhe.github.io/qrcode.html"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/4557530/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=linluhe&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
