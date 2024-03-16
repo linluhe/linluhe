@@ -1,5 +1,7 @@
 # 🙋 大家好，我是尊者 🙏
 
+https://github.com/linluhe/linluhe/assets/163412740/20996481-4e7d-4630-92a0-49dd96f1b9ba
+
 <div align="center">
   <div>
     <a href="https://github.com/new-soul-house"><img src="https://img.shields.io/badge/NewSoul-新心靈舍-blue" /></a>&emsp;
