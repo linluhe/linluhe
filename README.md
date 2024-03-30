@@ -5,6 +5,7 @@
   <div>
     <a href="https://github.com/new-soul-house"><img src="https://img.shields.io/badge/NewSoul-新心靈舍-blue" /></a>&emsp;
     <a href="https://linluhe.github.io/qrcode.html"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://linluhe.github.io/group_qrcode.html"><img src="https://img.shields.io/badge/WeChat-微信群-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/4557530/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=linluhe&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -16,5 +17,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=linluhe&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=linluhe&theme=xcode&bg_color=FF000000&hide_border=true" />
   </picture>
-</div>
 
+  [![Star History Chart](https://api.star-history.com/svg?repos=linluhe/linluhe&type=Date)](https://star-history.com/#linluhe/linluhe&Date)
+</div>
